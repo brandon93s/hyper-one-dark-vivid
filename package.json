@@ -1,0 +1,18 @@
+{
+  "name": "hyper-one-dark-vivid",
+  "version": "0.0.0",
+  "description": "Hyper.app theme based on Atom One Dark (vivid)",
+  "main": "index.js",
+  "author": "Brandon Smith",
+  "repository": "https://github.com/brandon93s/hyper-one-dark-vivid",
+  "license": "MIT",
+  "keywords": [
+    "Hyper",
+    "Theme",
+    "Colors",
+    "Atom",
+    "Dark",
+    "One",
+    "Vivid"
+  ]
+}

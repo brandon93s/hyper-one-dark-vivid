@@ -1,6 +1,6 @@
 {
   "name": "hyper-one-dark-vivid",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Hyper.app theme based on Atom One Dark (vivid)",
   "main": "index.js",
   "author": "Brandon Smith",

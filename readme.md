@@ -1,6 +1,6 @@
-# One Dark Vivid for Hyper.app
+# One Dark (Vivid) Theme for Hyper
 
-[Hyper.app](https://hyper.is) theme inspired by the [Atom One Dark](https://github.com/atom/one-dark-syntax) theme but with more **vivid** colors.
+[Hyper](https://hyper.is) theme inspired by the [Atom One Dark](https://github.com/atom/one-dark-syntax) theme but with more **vivid** colors.
 
 ![Empty Shell](https://i.imgur.com/Gm0zpps.png)
 ![Git Diff](https://i.imgur.com/8qZYKpN.png)
@@ -8,6 +8,7 @@
 ## Install
 
 1. Open Hyper's preferences with `Ctrl+,` or edit manually from `~/.hyper.js`
+
 2. Add `hyper-one-dark-vivid` to list of plugins:
 ```js
 plugins: [
